@@ -1,0 +1,7 @@
+{
+  "name": "KrishiNet-BRICS",
+  "description": "One field. Many nations. Shared intelligence. Regenerative agriculture intelligence platform for BRICS AgriN Track 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
